@@ -1,0 +1,86 @@
+.backcolor{
+background-color: #f56600;
+}
+.bodycolor{
+    background-color: #eaeded;
+}
+.flex{
+    display: flex;
+}
+.backimg{
+    background-image: url(./assets/bg-image.png);
+    background-repeat: repeat-y;
+    background-position: center;
+    background-size: contain;
+    height: 200px;
+}
+.textcenter{
+    text-align: center;
+}
+.textstyle{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.textwhite{
+    color: #eaeded;
+}
+.nobullet{
+    list-style-type: none;
+}
+.backwhite{
+    background-color: white;
+}
+.h4{
+        font-weight: bold;
+        font-size: larger;
+      }
+.logocolor{
+            background-color: #222f3e;
+            
+        }
+.navcolor{
+            background-color: #354758;
+        }
+a{
+    text-decoration: none;
+    color: #017185;
+    font-weight: bold;
+ }
+ :active { 
+    text-decoration: none; 
+  }
+  :visited{
+    text-decoration: none;
+  }
+  #maxwidth{
+    max-width: 100%;
+  }
+  .borderrad{
+    border-radius: 40px;
+  }
+  .mainalign{
+    margin-right: 30px; margin-left: 30px; text-align: center;
+  }
+  .imgctrl{
+    display: inline-block;
+    width: 24%;
+    height: 370px;
+    width: 376px;
+    padding: 24px 24px 24px 24px;
+}
+.cover{
+    object-fit: cover;
+}
+#color a{
+    color:#eaeded ;
+}
+#textid{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#padding1{
+    padding: 20px;
+}
+#padding2{
+    padding-top: 60px;
+}
